@@ -1,4 +1,5 @@
 import { ActionTypes, FilterTypes, IAction, IEvent, IState } from "./types";
+
 export const reducer = (state: IState, action: IAction) => {
   switch (action.type) {
     case ActionTypes.setEvents:
