@@ -26,11 +26,14 @@ export enum ActionTypes {
   setEvents,
   addEvent,
   setFilter,
+  updateEvent,
 }
+
 export interface IAction {
   type: ActionTypes;
   payload: unknown;
 }
+
 export interface IContextType {
   state: IState;
   dispatch: Dispatch<IAction>;

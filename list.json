@@ -3,19 +3,19 @@
     {
       "id": "101",
       "title": "Anoush",
-      "date": "July 2",
+      "date": "June 26",
       "time": "19:00",
-      "type": "opera",
       "composer": "A. Tigranian",
+      "type": "opera",
       "cover": "https://ticket.opera.am/uploads/images/5d34a043044cc714745c06a201800386.jpg"
     },
     {
       "id": "102",
-      "title": "Swan Lake",
+      "title": "Swan fffLake",
       "date": "July 4",
       "time": "19:00",
-      "type": "ballet",
       "composer": "P. Tchaykovsky",
+      "type": "ballet",
       "cover": "https://ticket.opera.am/uploads/images/Swan-Lake-Afisha-1494x1920px-min.jpg"
     },
     {
@@ -41,8 +41,8 @@
       "title": "Traviata",
       "date": "July 9",
       "time": "19:00",
-      "type": "opera",
       "composer": "G. Verdi",
+      "type": "ballet",
       "cover": "https://ticket.opera.am/uploads/images/3f96f76756b39ad97bcf173b0095f782.jpg"
     },
     {
